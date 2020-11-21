@@ -165,6 +165,6 @@ class Recaptcha
             $html .= sprintf('%s="%s" ', $key, $value);
         }
 
-        return '<div class="g-recaptcha" '.$html.'></div>';
+        return '<div class="g-recaptcha" '.$html.' loading="lazy"></div>';
     }
 }
