@@ -133,7 +133,7 @@ class Recaptcha
 
         $result = array_merge($default, $parameters);
 
-        $scripts = sprintf('<script type="text/javascript" src="%s?%s" async defer></script>',
+        $scripts = sprintf('<script type="text/javascript" src="%s?%s" defer></script>',
             self::api_url, http_build_query($result));
 
         return $scripts;
