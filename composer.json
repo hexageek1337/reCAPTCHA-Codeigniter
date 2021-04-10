@@ -3,7 +3,7 @@
     "type": "codeigniter4-library",
     "description": "Free to Use Library reCAPTCHA v2 for Codeigniter 4.",
     "homepage": "https://github.com/hexageek1337/reCAPTCHA-Codeigniter",
-	"license": "GPL-3.0",
+    "license": "GPL-3.0",
     "authors": [
         {
           "name": "Denny Septian Panggabean",
@@ -20,6 +20,7 @@
         "php",
         "codeigniter4"
     ],
+    "version": "1.0",
     "require": {
         "codeigniter4/framework": ">=4.1.1"
     }
