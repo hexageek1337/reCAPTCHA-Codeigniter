@@ -1,0 +1,8 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hexageek1337/reCAPTCHA-Codeigniter"
+        }
+    ]
+}
