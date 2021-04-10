@@ -1,8 +1,26 @@
 {
-    "repositories": [
+    "name": "hexageek1337/reCAPTCHA-Codeigniter",
+    "type": "codeigniter4-library",
+    "description": "Free to Use Library reCAPTCHA v2 for Codeigniter 4.",
+    "homepage": "https://github.com/hexageek1337/reCAPTCHA-Codeigniter",
+	"license": "GPL-3.0",
+    "authors": [
         {
-            "type": "vcs",
-            "url": "https://github.com/hexageek1337/reCAPTCHA-Codeigniter"
+          "name": "Denny Septian Panggabean",
+          "homepage": "https://denny.my.id"
+        },
+        {
+          "name": "Bo-Yi Wu",
+          "homepage": "https://twitter.com/appleboy"
         }
-    ]
+    ],
+    "keywords": [
+        "recaptcha",
+        "codeigniter",
+        "php",
+        "codeigniter4"
+    ],
+    "require": {
+        "codeigniter4/framework": ">=4.1.1"
+    }
 }
