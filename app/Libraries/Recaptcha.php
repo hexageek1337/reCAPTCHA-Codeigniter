@@ -2,11 +2,12 @@
 
 use Config\Settings;
 /**
- * CodeIgniter Recaptcha library
+ * CodeIgniter 4 Recaptcha Library
  *
- * @package CodeIgniter
- * @author  Bo-Yi Wu <appleboy.tw@gmail.com>
- * @link    https://github.com/appleboy/CodeIgniter-reCAPTCHA
+ * @package CodeIgniter 4
+ * @authorCI3  Bo-Yi Wu <appleboy.tw@gmail.com>
+ * @authorCI4  Denny Septian Panggabean <hexageek1337@gmail.com>
+ * @link    https://github.com/hexageek1337/reCAPTCHA-Codeigniter
  */
 class Recaptcha
 {
