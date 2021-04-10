@@ -1,5 +1,5 @@
 # reCAPTCHA Codeigniter 4
-Library reCAPTCHA v2 for Codeigniter 4 free to use.
+Free to Use Library reCAPTCHA v2 for Codeigniter 4.
 
 # What is reCAPTCHA?
 
