@@ -13,7 +13,15 @@ To use reCAPTCHA, you need to [sign up for an API key pair][4] for your site. Th
 
 # Installation
 
+install with composer
 ```bash
+$ composer require hexageek1337/recaptcha-codeigniter4
+```
+
+manual install with git clone
+```bash
+$ git clone https://github.com/hexageek1337/reCAPTCHA-Codeigniter
+$ cd reCAPTCHA-Codeigniter-main
 $ cp app/Config/Settings.php your_application_folder/Config/
 $ cp app/Libraries/Recaptcha.php your_application_folder/Libraries/
 ```
